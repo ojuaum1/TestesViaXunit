@@ -1,0 +1,7 @@
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\obj\Debug\net7.0\Email.Test.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\obj\Debug\net7.0\Email.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\obj\Debug\net7.0\Email.Test.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\obj\Debug\net7.0\Email.Test.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\obj\Debug\net7.0\Email.Test.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Email.Test\obj\Debug\net7.0\Email.Test.sourcelink.json

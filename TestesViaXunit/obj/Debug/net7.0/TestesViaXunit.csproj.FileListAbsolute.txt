@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\bin\Debug\net7.0\TestesViaXunit.exe
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\bin\Debug\net7.0\TestesViaXunit.deps.json
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\bin\Debug\net7.0\TestesViaXunit.runtimeconfig.json
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\bin\Debug\net7.0\TestesViaXunit.dll
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\bin\Debug\net7.0\TestesViaXunit.pdb
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.sourcelink.json
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.dll
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\refint\TestesViaXunit.dll
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.pdb
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\TestesViaXunit.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\TestesViaXunit\obj\Debug\net7.0\ref\TestesViaXunit.dll

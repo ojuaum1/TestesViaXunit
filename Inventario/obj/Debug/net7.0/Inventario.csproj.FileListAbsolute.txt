@@ -1,0 +1,5 @@
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario\obj\Debug\net7.0\Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario\obj\Debug\net7.0\Inventario.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario\obj\Debug\net7.0\Inventario.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario\obj\Debug\net7.0\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario\obj\Debug\net7.0\Inventario.sourcelink.json

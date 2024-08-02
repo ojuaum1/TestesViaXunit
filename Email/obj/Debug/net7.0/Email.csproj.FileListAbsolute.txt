@@ -1,0 +1,5 @@
+C:\Users\48342168883\Desktop\TestesViaXunit\Email\obj\Debug\net7.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\TestesViaXunit\Email\obj\Debug\net7.0\Email.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Email\obj\Debug\net7.0\Email.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\TestesViaXunit\Email\obj\Debug\net7.0\Email.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Email\obj\Debug\net7.0\Email.sourcelink.json

@@ -1,0 +1,7 @@
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\obj\Debug\net7.0\Inventario.Tests.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\obj\Debug\net7.0\Inventario.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\obj\Debug\net7.0\Inventario.Tests.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\obj\Debug\net7.0\Inventario.Tests.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\obj\Debug\net7.0\Inventario.Tests.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\TestesViaXunit\Inventario.Tests\obj\Debug\net7.0\Inventario.Tests.sourcelink.json
